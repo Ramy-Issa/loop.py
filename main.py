@@ -7,5 +7,4 @@ for i in numbers:
                break
      if i % 5 == 0:
           result.append(i)
-
 print(result)
